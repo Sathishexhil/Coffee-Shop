@@ -427,6 +427,7 @@ form .h3-font{
      background: url(./images/gallery-5.webp);
      color: transparent;
      background-clip: text;
+     -webkit-background-clip: text;
    
    }
 
