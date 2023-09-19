@@ -428,6 +428,7 @@ form .h3-font{
      color: transparent;
      background-clip: text;
      -webkit-background-clip: text;
+    font-weight: 800;
    
    }
 
